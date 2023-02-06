@@ -9,28 +9,10 @@ Launch Godot and create a new project.
 
 .. image:: img/new-project-button.webp
 
-.. tabs::
- .. tab:: GDScript
-
-    Download :download:`dodge_assets.zip <files/dodge_assets.zip>`.
-    The archive contains the images and sounds you'll be using
-    to make the game. Extract the archive and move the ``art/``
-    and ``fonts/`` directories to your project's directory.
-
- .. tab:: C#
-
-    Download :download:`dodge_assets.zip <files/dodge_assets.zip>`.
-    The archive contains the images and sounds you'll be using
-    to make the game. Extract the archive and move the ``art/``
-    and ``fonts/`` directories to your project's directory.
-
-    Ensure that you have the required dependencies to use C# in Godot.
-    You need the .NET Core 3.1 SDK, and an editor such as VS Code.
-    See :ref:`doc_c_sharp_setup`.
-
- .. tab:: C++
-
-    The C++ part of this tutorial wasn't rewritten for the new GDExtension system yet.
+Download :download:`dodge_assets.zip <files/dodge_assets.zip>`.
+The archive contains the images and sounds you'll be using
+to make the game. Extract the archive and move the ``art/``
+and ``fonts/`` directories to your project's directory.
 
 Your project folder should look like this.
 
